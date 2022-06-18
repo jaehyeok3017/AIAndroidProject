@@ -1,0 +1,1 @@
+Caused by: java.lang.RuntimeException: Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.7.0-runtime (androidx.core:core:1.7.0) and support-compat-28.0.0-runtime (com.android.support:support-compat:28.0.0)
